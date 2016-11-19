@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="GUI">
+    <file>Desktop/back.png</file>
+    <file>Desktop/detection.png</file>
+    <file>Desktop/cancel.png</file>
+    <file>Desktop/manageDb.png</file>
+    <file>Desktop/recognize.png</file>
+    <file>Desktop/recording.png</file>
+    <file>Desktop/startRec.png</file>
+    <file>Desktop/stopRec.png</file>
+    <file>Desktop/choosen.png</file>
+    <file>Desktop/logo.png</file>
+    <file>Desktop/help.png</file>
+    <file>Desktop/edit.png</file>
+    <file>Desktop/Add.png</file>
+    <file>Desktop/Delete_Icon.png</file>
+  </qresource>
+</RCC>
