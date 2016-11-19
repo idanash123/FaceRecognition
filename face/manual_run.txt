@@ -1,0 +1,21 @@
+###@writen by idanash#######
+
+#####To run camera and get T and detection :
+cd face
+python ultra_motion.py 
+#####To run and capture photos : 
+cd face
+python video_frame.py
+######photos are moving to folder photos
+
+##### To check all given photos T and detection
+cd face
+python many_photos.py
+##### all images with T drawing held in folder after it take a while
+
+######To run single photo and get T
+cd face
+python find_in_photo.py <File path> 
+####For example 
+python find_in_photo.py photos/1.jpg
+

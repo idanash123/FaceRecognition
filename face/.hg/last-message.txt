@@ -1,0 +1,1 @@
+Added tag face recognition v1.1 for changeset 2cb72d8b1ee7
